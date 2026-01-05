@@ -10,7 +10,7 @@
                 id: 1,
                 name: 'ORBIT VISION TEE',
                 price: 45.00,
-                image: '/files/space1.webp',
+                image: '/spacebeta/files/space1.webp',
                 description: 'Premium cotton blend',
                 featured: true
             },
