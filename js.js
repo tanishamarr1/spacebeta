@@ -10,7 +10,7 @@
                 id: 1,
                 name: 'ORBIT VISION TEE',
                 price: 45.00,
-                image: '/spacebeta/files/space1.webp',
+                image: './files/space1.webp',
                 description: 'Premium cotton blend',
                 featured: true
             },
@@ -18,35 +18,35 @@
                 id: 2,
                 name: 'SPACE CORE TEE',
                 price: 48.00,
-                image: '/spacebeta/files/space2.webp',
+                image: './files/space2.webp',
                 description: 'Limited edition'
             },
             {
                 id: 3,
                 name: 'INTERSTELLAR LEGENDS TEE',
                 price: 42.00,
-                image: '/spacebeta/files/space3.webp',
+                image: './files/space3.webp',
                 description: 'Oversized fit'
             },
             {
                 id: 4,
                 name: 'SPACE STATEMENT TEE',
                 price: 45.00,
-                image: '/spacebeta/files/space4.webp',
+                image: './files/space4.webp',
                 description: 'Essential piece'
             },
             {
                 id: 5,
                 name: 'COSMIC RENAISSANCE TEE',
                 price: 50.00,
-                image: '/spacebeta/files/space5.webp',
+                image: './files/space5.webp',
                 description: 'Premium quality'
             },
             {
                 id: 6,
                 name: 'VOID CLASSIC',
                 price: 44.00,
-                image: '\\spacebeta\\files/space1.webp',
+                image: './files/space1.webp',
                 description: 'Comfort fit'
             }
         ];
